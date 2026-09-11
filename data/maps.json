@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 2,
+    "Name": "江城古城区_outdoor_water",
+    "X": 176,
+    "Y": 32,
+    "Dir": 0,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 4,
+    "Name": "北商业街_outdoor",
+    "X": 336,
+    "Y": 800,
+    "Dir": 3,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 6,
+    "Name": "胜利路_outdoor_water",
+    "X": 32,
+    "Y": 528,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 7,
+    "Name": "东商业街_outdoor_water",
+    "X": 48,
+    "Y": 688,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 8,
+    "Name": "旧雨巷_outdoor",
+    "X": 32,
+    "Y": 432,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 9,
+    "Name": "旧雨巷市集_outdoor",
+    "X": 1712,
+    "Y": 208,
+    "Dir": 1,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 10,
+    "Name": "旧雨路_outdoor_water",
+    "X": 672,
+    "Y": 96,
+    "Dir": 1,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 11,
+    "Name": "工坊路_outdoor_water",
+    "X": 528,
+    "Y": 32,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 12,
+    "Name": "鲁氏制造集团_outdoor",
+    "X": 1760,
+    "Y": 1264,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 13,
+    "Name": "长空电子厂_outdoor",
+    "X": 32,
+    "Y": 1024,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 14,
+    "Name": "江凌路_outdoor_water",
+    "X": 48,
+    "Y": 240,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 15,
+    "Name": "加油站_outdoor",
+    "X": 32,
+    "Y": 832,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 16,
+    "Name": "爱家广场_outdoor",
+    "X": 1280,
+    "Y": 32,
+    "Dir": 0,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 17,
+    "Name": "凌江公园_outdoor_water",
+    "X": 32,
+    "Y": 432,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 19,
+    "Name": "纵云家园_outdoor",
+    "X": 48,
+    "Y": 512,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 20,
+    "Name": "4s店_outdoor",
+    "X": 112,
+    "Y": 64,
+    "Dir": 0,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 21,
+    "Name": "天机路_outdoor_water",
+    "X": 32,
+    "Y": 224,
+    "Dir": 2,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 23,
+    "Name": "别墅区门前_outdoor",
+    "X": 320,
+    "Y": 432,
+    "Dir": 3,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 24,
+    "Name": "垃圾场_outdoor",
+    "X": 480,
+    "Y": 432,
+    "Dir": 3,
+    "Origin": "原有入口",
+    "Available": true
+  },
+  {
+    "Id": 25,
+    "Name": "决斗中心_outdoor",
+    "X": 384,
+    "Y": 912,
+    "Dir": 3,
+    "Origin": "原有入口",
+    "Available": true
+  }
+]
