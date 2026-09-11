@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>BigWinnerMod</AssemblyName>
+    <Version>0.3.1</Version>
+    <DebugType>none</DebugType>
+    <NuGetAudit>false</NuGetAudit>
+  </PropertyGroup>
+  <Target Name="RequireGameDirectory" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(GameDir)/script.dll')" Text="请传入游戏安装目录：-p:GameDir=&quot;完整路径&quot;。该目录应包含 script.dll。" />
+  </Target>
+  <ItemGroup>
+    <Reference Include="script"><HintPath>$(GameDir)/script.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="iF2D"><HintPath>$(GameDir)/iF2D.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(GameDir)/0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SkiaSharp"><HintPath>$(GameDir)/SkiaSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="OpenTK.Windowing.GraphicsLibraryFramework"><HintPath>$(GameDir)/OpenTK.Windowing.GraphicsLibraryFramework.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>
